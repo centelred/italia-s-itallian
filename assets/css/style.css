@@ -1,0 +1,68 @@
+body {
+	background-color:#77CCA4;
+}
+
+h1 {
+	font-family: 'Bad Script', cursive;
+}
+
+h3 {
+	font-family: 'Bad Script', cursive;
+	color:#D22042
+}
+
+h5 {
+	font-family: 'Bad Script', cursive;
+}
+
+#container {
+	background-color:white;
+	height:100%;
+}
+
+.jumbotron {
+	background-color:#1D1313;
+}
+
+.jumbotron h1 {
+	color:#D22042;
+}
+
+p {
+	font-family: 'Numans', sans-serif;
+}
+
+.menu {
+	margin:0 auto;
+	background-color:#1D1313  ;
+}
+
+
+.meleah-menu {
+	float:left;
+	margin-left:2%;
+	width:60%;
+	text-align: center;
+	background-color:#FBFFE3;
+	border-radius:5px;
+	border:double 1px #212129;
+	padding: 15px;
+}
+
+.left-bar {
+	float: left;
+	width:18%;
+	background-color:#FBFFE3;
+	border-radius:5px;
+	border:solid 1px #212129;
+	padding: 10px;
+}
+
+.right-bar {
+	float: right;
+	width:18%;
+	background-color:#FBFFE3;
+	border-radius:5px;
+	border:solid 1px #212129;
+	padding: 10px;
+}
